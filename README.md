@@ -8,6 +8,7 @@ Libs install:
 ```
 pip install pandas
 ```
+Run file ```runme.py```
 
 ## Solution
 It is possible to show that given formula for LTV ([1] + [2] + [3] + [4] + [5]) is equiavalent to average amount of money which each client spends in the System
